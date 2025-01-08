@@ -69,7 +69,7 @@ s3978535_fundse_asm4
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/NgocDungNguyen/s3978535_FundSE_Asm4.git
    cd s3978535_fundse_asm4
    ```
 
